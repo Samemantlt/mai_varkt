@@ -17,7 +17,7 @@
 https://drive.google.com/drive/folders/1DvTL3GaL8qSUKYk-wAHNfX0nS7z-5mBU
 
 # Ссылка на видеоотчет на YouTube
-+ [Демонстрация полёта в KSP](https://www.youtube.com/watch?v=Vl--_uFOy2A)
++ [Демонстрация полёта в KSP](https://www.youtube.com/watch?v=FLEWeylkBC0)
 + [Отчетное видео](https://www.youtube.com/watch?v=Vl--_uFOy2A)
 # Ссылка на оригинал отчета
 ### ! Заменить
