@@ -21,4 +21,4 @@ https://drive.google.com/drive/folders/1DvTL3GaL8qSUKYk-wAHNfX0nS7z-5mBU
 + [Отчетное видео](https://youtu.be/y_-gUUo75hA)
 
 # Ссылка на оригинал отчета
-https://docs.google.com/document/d/1EAD-JPsH9FEopa0yPz3ZJKo55OvJurnu/edit?usp=drivesdk&ouid=109804174298137764582&rtpof=true&sd=true
+https://docs.google.com/document/d/1EKU4v9AZWMuLzvC0saAuVorftIjJIznD/edit?usp=drivesdk&ouid=109804174298137764582&rtpof=true&sd=true
