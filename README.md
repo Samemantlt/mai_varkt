@@ -12,12 +12,12 @@
 + [Логирование](https://github.com/Samemantlt/mai_varkt/blob/master/logger.py)
 2. Программа для построения графиков по мат. модели
 + [Построение графиков](https://github.com/Samemantlt/mai_varkt/blob/master/plot.py)
+
 # Ссылки на материал проекта и отчет
-### ! Заменить
-https://drive.google.com/drive/u/1/folders/1-UzT5PvxPoGkT_3TTTkqFbx66cVvgw9e?ths=true
+https://drive.google.com/drive/folders/1DvTL3GaL8qSUKYk-wAHNfX0nS7z-5mBU
+
 # Ссылка на видеоотчет на YouTube
-### ! Заменить
-+ [Демонстрация полёта в KSP](https://www.youtube.com/watch?v=c3EbTyQtKcA)
++ [Демонстрация полёта в KSP](https://www.youtube.com/watch?v=Vl--_uFOy2A)
 + [Отчетное видео](https://www.youtube.com/watch?v=Vl--_uFOy2A)
 # Ссылка на оригинал отчета
 ### ! Заменить
